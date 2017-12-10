@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10th 2017
 
 ### Student Name:  
-(First and Last Name)
+Zach Nolan
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment we worked more with JSON, APIs, and AJAX to create an interactive weather channel 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://zachnolan1.github.io/WeatherChannel-/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We use the APIXU API key to gather the weather information when we enter in a zip code. 
+2. The APIXU API is an API that uses JSON over HTTP for requests and requires an API key for authentication.
+3. List Groups displays weather information retrieved from the server.
